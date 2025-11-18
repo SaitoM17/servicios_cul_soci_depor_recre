@@ -20,7 +20,11 @@ Este proyecto desarrolla un análisis completo del dataset de servicios cultural
 
 ## 🎯 Propósito
 
-El objetivo de este proyecto es [objetivo general del análisis], con el fin de [impacto esperado, decisiones que se tomarán, etc.].
+El propósito de este proyecto es evaluar la prestación de servicios del ISSSTE:
+* Limpieza y preparación de datos (Excel).
+* Construcción de tablas dinámicas para análisis descriptivo y comparativo.
+* Desarrollo de dashboards ejecutivos con KPIs y visualizaciones.
+* Identificación de patrones, tendencias y variaciones interanuales.
 
 ---
 
