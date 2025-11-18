@@ -33,7 +33,7 @@ El propósito de este proyecto es evaluar la prestación de servicios del ISSSTE
 El conjunto de datos utilizado contiene las siguientes columnas:
 
 - ``anio``: Año en el que se registró la información.
-``oficina_representacion``: Nombre de la oficina o entidad estatal que reporta los datos.
+- ``oficina_representacion``: Nombre de la oficina o entidad estatal que reporta los datos.
 - ``serv_culturales_derechohab_publ``: Número de servicios culturales otorgados a derechohabientes del sector público.
 - ``serv_deportivos_derechohab_publ``: Número de servicios deportivos otorgados a derechohabientes del sector público.
 - ``serv_sociales_derechohab_publ``: Número de servicios sociales otorgados a derechohabientes del sector público. (En tus datos aparece vacío, pero la columna representa esto.)
