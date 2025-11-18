@@ -69,12 +69,7 @@ Fuente: [Nombre de la fuente o “datos simulados/ficticios”].
 
 ## 🛠️ Tecnologías
 
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-- Jupyter Notebook / Google Colab
-- [Otras herramientas que uses, como Scikit-learn, Plotly, etc.]
+- Excel
 
 ---
 
