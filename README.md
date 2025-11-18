@@ -84,38 +84,6 @@ Fuente: [Nombre de la fuente o “datos simulados/ficticios”].
 ```bash
 git clone https://github.com/tu_usuario/nombre_del_proyecto.git
 ```
-### 2. Uso de un Entorno Virtual para Aislar Dependencias
-
-Para evitar conflictos con versiones de librerías, se recomienda usar entornos virtuales.
-
-####  Crear y Activar un Entorno Virtual
-
-##### Crear el entorno virtual:
-```
-python -m venv venv
-```
-##### Activar el entorno:
-* #### En Windows:
-
-    ```
-    venv\Scripts\activate
-    ```
-
-* #### En Mac/Linux::
-
-    ```
-    source venv/bin/activate
-    ```
-#### 3. Instalar dependencias dentro del entorno:
-* #### Opición 1:
-    ```
-    pip install -r requirements.txt
-    ```
-
-* #### Opción 2 (De forma manual):
-    ```
-    pip install numpy pandas matplotlib seaborn scikit-learn
-    ```
 
 ---
 
