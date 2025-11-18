@@ -1,7 +1,8 @@
-# 📊 [Nombre_Del_Proyecto]
-# [Título del Análisis]
+# 📊 Análisis de Servicios Culturales, Deportivos y Sociales del ISSSTE: Limpieza, Exploración y Visualización de Datos
 
-Este proyecto realiza un análisis [exploratorio / predictivo / descriptivo] de [tema del proyecto]. El conjunto de datos incluye información sobre [breve descripción del contenido del dataset].
+# Transformación de datos públicos en insights mediante Excel
+
+Este proyecto aborda el procesamiento y análisis de los servicios culturales, deportivos, sociales y recreativos ofrecidos por el ISSSTE a nivel nacional. A partir de datos por año y por delegación, se realiza una limpieza completa del conjunto de datos en Excel, corrigiendo valores faltantes, estandarizando formatos y normalizando variables clave como fechas y nombres de oficinas de representación.
 
 ---
 
