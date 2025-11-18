@@ -32,12 +32,19 @@ El propósito de este proyecto es evaluar la prestación de servicios del ISSSTE
 
 El conjunto de datos utilizado contiene las siguientes columnas:
 
-- `NombreColumna1`: [Descripción]
-- `NombreColumna2`: [Descripción]
-- `NombreColumna3`: [Descripción]
-- `...`
+- ``anio``: Año en el que se registró la información.
+``oficina_representacion``: Nombre de la oficina o entidad estatal que reporta los datos.
+- ``serv_culturales_derechohab_publ``: Número de servicios culturales otorgados a derechohabientes del sector público.
+- ``serv_deportivos_derechohab_publ``: Número de servicios deportivos otorgados a derechohabientes del sector público.
+- ``serv_sociales_derechohab_publ``: Número de servicios sociales otorgados a derechohabientes del sector público. (En tus datos aparece vacío, pero la columna representa esto.)
+- ``serv_funerarios_derechohab_publ``: Número de servicios funerarios otorgados a derechohabientes del sector público.
+- ``serv_sociales_pensionados_jubl``: Número de servicios sociales otorgados a pensionados y jubilados.
+- ``fome_deportivo_pensionados_jubl``: Número de servicios deportivos otorgados a pensionados y jubilados.
+- ``serv_culturales_pensionados_jubl``: Número de servicios culturales otorgados a pensionados y jubilados.
+- ``soci_comedores_pensionados_jubl``: Número de servicios de comedores sociales otorgados a pensionados y jubilados.
+- ``fecha``: Fecha exacta en la que se registraron o consolidaron los datos.
 
-Fuente: [Nombre de la fuente o “datos simulados/ficticios”].
+Fuente: [Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE)](https://datos.gob.mx/dataset/servicios_culturales_sociales_deportivos_recreativos).
 
 ---
 
