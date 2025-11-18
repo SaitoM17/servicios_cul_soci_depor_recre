@@ -1,8 +1,8 @@
-# 📊 Análisis de Servicios Culturales, Deportivos y Sociales del ISSSTE: Limpieza, Exploración y Visualización de Datos
+# 📊 Análisis Integral de Servicios Culturales, Sociales, Deportivos y Recreativos del ISSSTE (2013–2024)
 
-# Transformación de datos públicos en insights mediante Excel
+# Limpieza, Transformación y Visualización de Datos para la Evaluación del Desempeño por Delegación
 
-Este proyecto aborda el procesamiento y análisis de los servicios culturales, deportivos, sociales y recreativos ofrecidos por el ISSSTE a nivel nacional. A partir de datos por año y por delegación, se realiza una limpieza completa del conjunto de datos en Excel, corrigiendo valores faltantes, estandarizando formatos y normalizando variables clave como fechas y nombres de oficinas de representación.
+Este proyecto desarrolla un análisis completo del dataset de servicios culturales, sociales, deportivos y recreativos ofrecidos por el ISSSTE a nivel nacional. El proceso incluye la limpieza y estandarización de la información, la creación de métricas clave, el análisis exploratorio mediante tablas dinámicas y el diseño de un dashboard interactivo en Excel.
 
 ---
 
