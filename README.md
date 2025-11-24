@@ -11,6 +11,7 @@ Este proyecto desarrolla un análisis completo del dataset de servicios cultural
 - [🎯 Propósito](#-propósito)
 - [📦 Conjunto de Datos](#-conjunto-de-datos)
 - [🧪 Desarrollo del Proyecto](#-desarrollo-del-proyecto)
+- [📌 Vista previa del dashboard](#-vista-previa-del-dashboard)
 - [📈 Conclusiones y Recomendaciones](#-conclusiones-y-recomendaciones)
 - [🛠️ Tecnologías](#️-tecnologías)
 - [⚙️ Instalación](#️-instalación)
@@ -69,6 +70,10 @@ Fuente: [Instituto de Seguridad y Servicios Sociales de los Trabajadores del Est
    - Síntesis de hallazgos clave y propuestas de acción.
 
 ---
+
+## 📌 Vista previa del dashboard
+
+--
 
 ## 📈 Conclusiones y Recomendaciones
 
