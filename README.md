@@ -72,8 +72,9 @@ Fuente: [Instituto de Seguridad y Servicios Sociales de los Trabajadores del Est
 ---
 
 ## 📌 Vista previa del dashboard
+![Dashboard](reports/figures/Dashboard.png)
 
---
+---
 
 ## 💡 Insights claves
 
