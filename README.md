@@ -83,6 +83,22 @@ Fuente: [Instituto de Seguridad y Servicios Sociales de los Trabajadores del Est
    * Renombré todas las columnas con nombres claros, consistentes y fáciles de interpretar, facilitando la lectura y el uso del dataset en herramientas de análisis.
    ![limpieza11](reports/figures/limpieza11.png)
 
+**Limpieza Posterior / Ajustes Adicionales**
+
+Durante la creación de tablas dinámicas(desarrollo del EDA) se detectaron inconsistencias en los nombres de los estados (errores ortográficos, abreviaturas, ausencia de acentos, variaciones no estándar). Para asegurar la coherencia de las categorías:
+![limpieza12](reports/figures/limpieza12.png)
+
+**1. Normalización de nombres de estados**
+
+   * Utilicé Buscar y Reemplazar para corregir variaciones comunes.
+   ![limpieza13](reports/figures/limpieza13.png)
+   * Apliqué revisión de ortografía para corregir errores directos.
+   ![limpieza14](reports/figures/limpieza14.png)
+   * Ajusté manualmente los casos individuales donde la automatización no fue suficiente.
+   ![limpieza15](reports/figures/limpieza15.png)
+
+Este proceso garantizó que todas las categorías territoriales fueran consistentes, estandarizadas y aptas para análisis comparativos.
+
 3. **Análisis exploratorio de datos (EDA)**:
    - [Ej. Distribución, correlaciones, agrupaciones, etc.]
 
