@@ -66,7 +66,11 @@ Fuente: [Instituto de Seguridad y Servicios Sociales de los Trabajadores del Est
    * Eliminé caracteres no visibles (saltos ocultos, símbolos invisibles, ASCII residuales).
    ![limpieza4](reports/figures/limpieza4.png)
    * Depuré espacios en blanco adicionales (al inicio, final y duplicados dentro del texto).
+   ![limpieza5](reports/figures/limpieza5.png)
    * Eliminé registros duplicados para evitar sesgos en el análisis.
+   ![limpieza6](reports/figures/limpieza6.png)
+   ![limpieza7](reports/figures/limpieza7.png)
+   ![limpieza8](reports/figures/limpieza8.png)
 
 3. **Análisis exploratorio de datos (EDA)**:
    - [Ej. Distribución, correlaciones, agrupaciones, etc.]
