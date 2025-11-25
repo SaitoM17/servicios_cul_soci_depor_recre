@@ -149,9 +149,12 @@ El diseño final de cada tabla se ajustó con formato de reporte, facilitando su
 
 ## 💡 Insights claves
 
-- [Insight 1]
-- [Insight 2]
-- [Recomendación práctica o estratégica basada en los datos]
+- **1. Servicios deportivos por año**
+   * Los servicios deportivos en Hidalgo presentan una tendencia descendente de 2013 a 2025, alcanzando su punto más bajo en 2016 con 0 registros. La proyección apunta a que esta disminución podría continuar hacia 2026.
+- **2. Comparación entre servicios culturales, deportivos y sociales**
+   * En la comparación de categorías, el servicio social (comedores para pensionados/jubilados) es el más bajo, manteniéndose en 0 registros dentro del periodo evaluado.
+- **3. Ranking de oficinas de representación**
+   * Hidalgo ocupa la posición 8 en el ranking de oficinas de representación. Su posición se ve afectada por múltiples servicios sociales con registros en cero, lo cual reduce su contribución total.
 
 ---
 
