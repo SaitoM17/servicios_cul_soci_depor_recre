@@ -131,6 +131,15 @@ Como resultado se obtuvieron tres tablas dinámicas principales:
 
 El diseño final de cada tabla se ajustó con formato de reporte, facilitando su presentación a usuarios técnicos y directivos.
 
+**Visualizaciones y Formato Final**
+
+* Se generaron gráficos para cada tabla dinámica, reforzando la interpretación visual.
+![desarrollo7](reports/figures/desarrollo7.png)
+* Las hojas se editaron para ofrecer una presentación más profesional (títulos, alineación, etiquetas y disposición del contenido).
+![desarrollo8](reports/figures/desarrollo8.png)
+* Se añadió un insight clave en cada apartado, resumiendo el hallazgo más relevante de forma directa.
+![desarrollo9](reports/figures/desarrollo9.png)
+
 4. **Visualización de datos**:
    - Uso de gráficos de barras, líneas, cajas, dispersión y mapas de calor.
 
