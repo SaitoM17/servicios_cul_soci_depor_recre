@@ -140,15 +140,6 @@ El diseño final de cada tabla se ajustó con formato de reporte, facilitando su
 * Se añadió un insight clave en cada apartado, resumiendo el hallazgo más relevante de forma directa.
 ![desarrollo9](reports/figures/desarrollo9.png)
 
-4. **Visualización de datos**:
-   - Uso de gráficos de barras, líneas, cajas, dispersión y mapas de calor.
-
-5. **Modelado o reportes (opcional)**:
-   - [Si aplica: modelos de ML, clustering, predicciones, etc.]
-
-6. **Conclusiones y recomendaciones**:
-   - Síntesis de hallazgos clave y propuestas de acción.
-
 ---
 
 ## 📌 Vista previa del dashboard
