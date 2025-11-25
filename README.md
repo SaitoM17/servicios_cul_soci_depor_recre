@@ -136,6 +136,7 @@ El diseño final de cada tabla se ajustó con formato de reporte, facilitando su
 * Se generaron gráficos para cada tabla dinámica, reforzando la interpretación visual.
 ![desarrollo7](reports/figures/desarrollo7.png)
 * Las hojas se editaron para ofrecer una presentación más profesional (títulos, alineación, etiquetas y disposición del contenido).
+
 ![desarrollo8](reports/figures/desarrollo8.png)
 * Se añadió un insight clave en cada apartado, resumiendo el hallazgo más relevante de forma directa.
 ![desarrollo9](reports/figures/desarrollo9.png)
