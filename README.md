@@ -85,7 +85,7 @@ Fuente: [Instituto de Seguridad y Servicios Sociales de los Trabajadores del Est
 
 **Limpieza Posterior / Ajustes Adicionales**
 
-Durante la creación de tablas dinámicas(desarrollo del EDA) se detectaron inconsistencias en los nombres de los estados (errores ortográficos, abreviaturas, ausencia de acentos, variaciones no estándar). Para asegurar la coherencia de las categorías:
+Durante la creación de tablas dinámicas(desarrollo del EDA) se detectaron inconsistencias en los nombres de los estados (errores ortográficos, abreviaturas, ausencia de acentos, variaciones no estándar). Para asegurar la coherencia de las categorías:    
 ![limpieza12](reports/figures/limpieza12.png)
 
 **1. Normalización de nombres de estados**
