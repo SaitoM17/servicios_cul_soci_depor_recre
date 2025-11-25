@@ -93,9 +93,9 @@ Durante la creación de tablas dinámicas(desarrollo del EDA) se detectaron inco
    * Utilicé Buscar y Reemplazar para corregir variaciones comunes.
    ![limpieza13](reports/figures/limpieza13.png)
    * Apliqué revisión de ortografía para corregir errores directos.
-   ![limpieza14](reports/figures/limpieza14.png)
-   * Ajusté manualmente los casos individuales donde la automatización no fue suficiente.
    ![limpieza15](reports/figures/limpieza15.png)
+   * Ajusté manualmente los casos individuales donde la automatización no fue suficiente.
+   ![limpieza14](reports/figures/limpieza14.png)
 
 Este proceso garantizó que todas las categorías territoriales fueran consistentes, estandarizadas y aptas para análisis comparativos.
 
