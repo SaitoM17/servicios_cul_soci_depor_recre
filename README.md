@@ -72,6 +72,17 @@ Fuente: [Instituto de Seguridad y Servicios Sociales de los Trabajadores del Est
    ![limpieza7](reports/figures/limpieza7.png)
    ![limpieza8](reports/figures/limpieza8.png)
 
+**3. Tratamiento de valores faltantes**
+
+   * Imputé las celdas vacías asignando el valor 0, ya que no existía información disponible para obtener los datos originales(si es que los hay) y la eliminación de registros no era una alternativa viable. Esta imputación permitió conservar la integridad del dataset sin comprometer la estructura ni perder observaciones relevantes.
+   ![limpieza9](reports/figures/limpieza9.png)
+   ![limpieza10](reports/figures/limpieza10.png)
+
+**4. Estandarización de columnas**
+
+   * Renombré todas las columnas con nombres claros, consistentes y fáciles de interpretar, facilitando la lectura y el uso del dataset en herramientas de análisis.
+   ![limpieza11](reports/figures/limpieza11.png)
+
 3. **Análisis exploratorio de datos (EDA)**:
    - [Ej. Distribución, correlaciones, agrupaciones, etc.]
 
