@@ -51,11 +51,22 @@ Fuente: [Instituto de Seguridad y Servicios Sociales de los Trabajadores del Est
 
 ## 🧪 Desarrollo del Proyecto
 
-1. **Carga y exploración inicial de los datos**:
-   - Exploración básica con `.head()`, `.info()`, `.describe()`, etc.
+### **Limpieza y preprocesamiento**
+**1. Estructuración inicial del dataset**
 
-2. **Limpieza y preprocesamiento**:
-   - Manejo de valores nulos, duplicados, formatos y conversiones de fechas.
+   * Convertí la fuente original a un formato tabular para facilitar su análisis.
+   ![limpieza1](reports/figures/limpieza1.png)
+   * Apliqué el tipo de dato adecuado a cada columna (numérico, texto, fecha, categórico), garantizando la integridad durante las operaciones posteriores.
+   ![limpieza2](reports/figures/limpieza2.png)
+
+**2. Correcciones básicas de calidad**
+
+   * Realicé una revisión de ortografía en los encabezados para estandarizar nombres y evitar inconsistencias.
+   ![limpieza3](reports/figures/limpieza3.png)
+   * Eliminé caracteres no visibles (saltos ocultos, símbolos invisibles, ASCII residuales).
+   ![limpieza4](reports/figures/limpieza4.png)
+   * Depuré espacios en blanco adicionales (al inicio, final y duplicados dentro del texto).
+   * Eliminé registros duplicados para evitar sesgos en el análisis.
 
 3. **Análisis exploratorio de datos (EDA)**:
    - [Ej. Distribución, correlaciones, agrupaciones, etc.]
