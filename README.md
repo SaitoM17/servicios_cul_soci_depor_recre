@@ -99,8 +99,38 @@ Durante la creación de tablas dinámicas(desarrollo del EDA) se detectaron inco
 
 Este proceso garantizó que todas las categorías territoriales fueran consistentes, estandarizadas y aptas para análisis comparativos.
 
-3. **Análisis exploratorio de datos (EDA)**:
-   - [Ej. Distribución, correlaciones, agrupaciones, etc.]
+### **Análisis exploratorio de datos (EDA)**
+
+Durante el análisis exploratorio se construyeron tablas dinámicas y visualizaciones con el fin de identificar patrones, comparar categorías y evaluar el comportamiento de los servicios registrados por estado y por oficina de representación.
+
+Además de su valor analítico, estas tablas fueron diseñadas con un formato tipo reporte, facilitando su interpretación tanto por equipos técnicos (para identificar áreas de mejora, calidad de datos o flujos operativos) como por equipos ejecutivos (que requieren información clara y accionable para la toma de decisiones).
+
+**Preparación previa**
+
+* Columna de suma total por estado: Se creó una columna adicional para calcular la suma total de servicios por estado/oficina, permitiendo construir rankings comparativos y evaluar el volumen total atendido.
+![desarrollo1](reports/figures/desarrollo1.png)
+
+**Construcción de Tablas Dinámicas**
+
+* Procedimiento:
+
+   * Se seleccionó el rango de datos previamente limpio y estructurado.
+   ![desarrollo2](reports/figures/desarrollo2.png)
+   * Se configuraron los campos de cada tabla dinámica según la pregunta a resolver.
+   * Se estandarizaron los encabezados para asegurar claridad, consistencia y facilidad de lectura.
+   ![desarrollo6](reports/figures/desarrollo6.png)
+
+Se elaboraron tres tablas dinámicas principales:
+
+* Servicios deportivos por año
+![desarrollo3](reports/figures/desarrollo3.png)
+* Comparación entre servicios culturales, deportivos y sociales
+![desarrollo4](reports/figures/desarrollo4.png)
+* Ranking de oficinas de representación
+![desarrollo5](reports/figures/desarrollo5.png)
+
+
+El diseño final de cada tabla se ajustó con formato de reporte, facilitando su presentación a usuarios técnicos y directivos.
 
 4. **Visualización de datos**:
    - Uso de gráficos de barras, líneas, cajas, dispersión y mapas de calor.
